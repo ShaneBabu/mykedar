@@ -1,0 +1,13 @@
+css/* 1. Global Reset & Variables */
+:root {
+  --primary-color: #3498db;
+  --text-color: #333333;
+  --bg-color: #f4f7f6;
+  --card-bg: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
